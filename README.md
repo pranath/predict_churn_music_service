@@ -10,7 +10,7 @@ For this project, we have a dataset from a music service called Sparkify, very s
 ## Project definition
 Streaming music services can produce huge datasets, and we will approach this project by using one of the most caperble tools for dealing with big data - Apache Spark.
 
-In this project, will analyse the dataset for user logs from the Sparkify service and seek to build a machine learning model that is able to predict customers that might churn.
+In this project, we will analyse the dataset for user logs from the Sparkify service and seek to build a machine learning model that is able to predict customers that might churn.
 
 ## Results
 
