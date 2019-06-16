@@ -34,3 +34,9 @@ Nevertheless, this model and features developed seem to be good candidates for f
 ## Project files
 
 - sparkify_small.ipynb : Jupyter notebook for developing the analysis and models for the project
+
+## Article
+
+An article documenting this project can be found here:
+
+https://medium.com/@pranathfernando/predicting-customer-churn-for-a-music-streaming-service-69b594c935f8?postPublishedType=repub
