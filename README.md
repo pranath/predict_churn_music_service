@@ -32,3 +32,5 @@ Nevertheless, this model and features developed seem to be good candidates for f
 - time
 
 ## Project files
+
+- sparkify_small.ipynb : Jupyter notebook for developing the analysis and models for the project
