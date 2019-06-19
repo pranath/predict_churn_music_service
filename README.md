@@ -1,4 +1,4 @@
-# Predicting churn for the Sparkify music service
+# Predicting churn for a streaming music service
 
 ## Project overview
 Many online services these days provide flexible services to customers which are easy to subscribe to and unsubscribe from. Good examples of such services in the music industry include those such as Spotify and Pandora.
